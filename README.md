@@ -10,4 +10,4 @@
 | [Day 4](month-01/day-04-ssh-keys-filenames.md) | 21 Nov 2026 | SSH host keys, known_hosts, tricky filenames, Bandit 2–3 |
 
 
-*Next: Day 3 — Week 1 review and OverTheWire Bandit*
+*Next: Day 5 — Bandit levels 3–5 (hidden files, finding files)*
