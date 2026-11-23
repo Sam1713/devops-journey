@@ -11,4 +11,4 @@
 | [Day 5](month-01/day-05-weekly-review.md) | 22 Nov 2026 | Week 1 review, troubleshooting framework, Bandit 3–4 |
 
 
-*Next: Day 5 — Bandit levels 3–5 (hidden files, finding files)*
+*Next: Day 6 — Text editors: nano and Vim*
