@@ -12,4 +12,4 @@
 | [Day 6](month-01/day-06-nano-editor.md) | 23 Nov 2026 | nano editor, editing config files |
 
 
-*Next: Day 6 — Text editors: nano and Vim*
+*Next: Day 7 — Vim basics + head and tail*
